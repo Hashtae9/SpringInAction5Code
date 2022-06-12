@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jpa_Test/src/main/resources/member.sql&apos; to &apos;MEMBER.sql&apos;" description="Rename resource &apos;member.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/member.sql" name="MEMBER.sql" stamp="1653631369510" updateReferences="true"/>
+</session>

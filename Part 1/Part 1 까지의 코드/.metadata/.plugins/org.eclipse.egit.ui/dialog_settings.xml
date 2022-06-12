@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/codingspecialist/-Springboot-Security-OAuth2.0-V3.git"/>
+		<item value="https://github.com/holyeye/jpabook.git"/>
+		<item value="https://github.com/Jpub/SpringInAction5.git"/>
+		<item value="https://github.com/eomjinyoung/JavaWebProgramming.git"/>
+	</list>
+</section>

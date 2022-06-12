@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="jpa_Test"/>
+<aop-project name="Security_Cloud"/>
+<aop-project name="taco_Cloud"/>
+</aop-reference-model>
