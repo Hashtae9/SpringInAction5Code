@@ -104,7 +104,7 @@ public class UserController {
 
 > @Controller에 @ResponseBody가 추가된 것
 >
-> > Json 형태로 객체 데이터를 반환
+> > 대부분 Json 형태로 객체 데이터를 반환
 > >
 > > 최근 데이터를 응답으로 제공하는 REST API를 개발할 때 주로 사용하며 객체를 ResponseEntity로 감싸서 반환 
 > >
@@ -259,7 +259,7 @@ public class UserController {
 
 + Resource
 
-> 서버는 Unique한 ID를 가지는 Resource를 가지고 있으며, 클라이언트는 이러한 Resource(=URI)에 요청을 보냄
+> 서버는 Unique한 ID를 가지는 Resource를 가지고 있으며, 클라이언트는 이러한 Resource에 요청을 보냄
 
 
 
