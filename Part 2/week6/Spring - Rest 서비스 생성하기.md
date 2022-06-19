@@ -12,7 +12,7 @@
 
 ##### **1. Controller로 View 반환하기**
 
-<img src="C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20220612171801348.png" alt="image-20220612171801348" style="zoom:67%;" align="left" />
+<img src="C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20220612171801348.png" alt=".\image-20220612171801348" style="zoom:67%;" align="left" />
 
 ###### <span style ="black">**Spring MVC Container의 동작 과정**</span>
 
