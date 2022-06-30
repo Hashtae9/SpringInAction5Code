@@ -281,7 +281,7 @@ public class UserController {
 
 *추가 정보
 
-URL vs URL
+URL vs URI
 
 > URL은 Uniform Resource Locator로 인터넷 상 자원의 위치를 의미 
 >
